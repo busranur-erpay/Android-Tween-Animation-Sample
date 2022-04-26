@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    //Scale the image 1.5 times bigger.
+    <scale
+        android:fromXScale="1.0"
+        android:toXScale="1.5"
+        android:fromYScale="1.0"
+        android:toYScale="1.5"
+        android:duration="1500"
+        android:pivotX="0.0"
+        android:pivotY="0.0"/>
+</set>
